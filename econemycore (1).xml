@@ -1,0 +1,6 @@
+    
+<!-- ALPHA ARMOR -->	
+	<ce folder="Blacks_Items_ce">
+        <file name="Blacks_Armor_Helmet_types.xml" type="types" />
+        <file name="Armor_types.xml" type="types" />     
+	</ce>

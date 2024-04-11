@@ -1,0 +1,229 @@
+Trader Config
+		
+// Needed Items 
+<Category>Alpha Armor Needed Items 
+    Blacks_Armor_InvisibilityHead,			1,			20000,			5000 
+    Blacks_Armor_gloves,			        1,			20000,			5000 
+	
+// EXTRA Helmets
+<Category>Alpha Armor EXTRA Helmets
+	Blacks_Armor_Helmet_White,			    1,			20000,			5000         
+    Blacks_Armor_Helmet_White_2,			1,			20000,			5000 
+    Blacks_Armor_helmet_White_alpha,	    1,			20000,			5000        
+    Blacks_Armor_helmet_White_alpha_2,	    1,			20000,			5000 
+	Blacks_Armor_helmet_alpha_Metal2,		1,			20000,			5000 
+	Blacks_Armor_helmet_alpha_Metal4,		1,			20000,			5000 
+	Blacks_Armor_helmet_alpha_Camo49,		1,			20000,			5000 
+	Blacks_Armor_helmet_alpha_Camo46,	    1,			20000,			5000 
+	Blacks_Armor_Helmet_yellow,			    1,			20000,			5000      
+    Blacks_Armor_Helmet_yellow_2,			1,			20000,			5000
+	Blacks_Armor_helmet_yellow_alpha,	    1,			20000,			5000      
+    Blacks_Armor_helmet_yellow_alpha_2,		1,			20000,			5000
+        	
+// Blacks_Armor_Blue
+<Category>Alpha Armor Blue
+	Blacks_Armor_Boots_Blue,			    1,			20000,			5000        
+	Blacks_Armor_Pants_Blue,			    1,			20000,			5000         
+	Blacks_Armor_Jacket_Blue,			    1,			20000,			5000         
+	Blacks_Armor_Vest_Blue,		     	    1,			20000,			5000 
+	Blacks_Armor_Helm_Blue,		     	    1,			20000,			5000 
+	Blacks_Armor_helmet_blue,			    1,			20000,			5000       
+    Blacks_Armor_helmet_blue_2,			    1,			20000,			5000 
+	Blacks_Armor_helmet_blue_alpha,			1,			20000,			5000        
+    Blacks_Armor_helmet_blue_alpha_2,	    1,			20000,			5000 
+        	
+// Blacks_Armor_Red
+<Category>Alpha Armor Red
+	Blacks_Armor_Boots_Red,			        1,			20000,			5000         
+	Blacks_Armor_Pants_Red,			        1,			20000,			5000       
+	Blacks_Armor_Jacket_Red,			    1,			20000,			5000        
+	Blacks_Armor_Vest_Red,		     	    1,			20000,			5000 
+	Blacks_Armor_Helm_Red,			        1,			20000,			5000 
+	Blacks_Armor_Helmet_Red,			    1,			20000,			5000        
+    Blacks_Armor_Helmet_Red_2,			    1,			20000,			5000 
+	Blacks_Armor_helmet_Red_alpha,			1,			20000,			5000         
+    Blacks_Armor_helmet_Red_alpha_2,		1,			20000,			5000 
+        	
+// Blacks_Armor_Green
+<Category>Alpha Armor Green
+	Blacks_Armor_Boots_Green,			    1,			20000,			5000        
+	Blacks_Armor_Pants_Green,			    1,			20000,			5000        
+	Blacks_Armor_Jacket_Green,			    1,			20000,			5000     
+	Blacks_Armor_Vest_Green,			    1,			20000,			5000 
+	Blacks_Armor_Helm_Green,			    1,			20000,			5000 
+	Blacks_Armor_Helmet_Green,			    1,			20000,			5000       
+    Blacks_Armor_Helmet_Green_2,			1,			20000,			5000 
+	Blacks_Armor_helmet_green_alpha,	    1,			20000,			5000         
+    Blacks_Armor_helmet_green_alpha_2,		1,			20000,			5000 
+        	
+// Blacks_Armor_Orange
+<Category>Alpha Armor Orange
+	Blacks_Armor_Boots_Orange,			    1,			20000,			5000         
+	Blacks_Armor_Pants_Orange ,			    1,			20000,			5000        
+	Blacks_Armor_Jacket_Orange,			    1,			20000,			5000        
+	Blacks_Armor_Vest_Orange,			    1,			20000,			5000 
+	       	
+// Blacks_Armor_Camo16
+<Category>Alpha Armor Camo16
+	Blacks_Armor_Boots_Camo16,			    1,			20000,			5000        
+	Blacks_Armor_Pants_Camo16,			    1,			20000,			5000        
+	Blacks_Armor_Jacket_Camo16,			    1,			20000,			5000        
+	Blacks_Armor_Vest_Camo16,			    1,			20000,			5000
+	Blacks_Armor_Helm_Camo16,			    1,			20000,			5000
+	Blacks_Armor_helmet_alpha_Camo16,		1,			20000,			5000        
+	
+// Blacks_Armor_Camo18
+<Category>Alpha Armor Camo18
+	Blacks_Armor_Boots_Camo18,			    1,			20000,			5000        
+	Blacks_Armor_Pants_Camo18,			    1,			20000,			5000       
+	Blacks_Armor_Jacket_Camo18,			    1,			20000,			5000       
+	Blacks_Armor_Vest_Camo18,			    1,			20000,			5000
+	Blacks_Armor_Helm_Camo18,			    1,			20000,			5000
+	Blacks_Armor_helmet_alpha_Camo18,	    1,			20000,			5000
+        
+// Blacks_Armor_Camo21
+<Category>Alpha Armor Camo21
+	Blacks_Armor_Boots_Camo21,			    1,			20000,			5000        
+	Blacks_Armor_Pants_Camo21,			    1,			20000,			5000        
+	Blacks_Armor_Jacket_Camo21,			    1,			20000,			5000     
+	Blacks_Armor_Vest_Camo21,			    1,			20000,			5000
+	Blacks_Armor_Helm_Camo21,			    1,			20000,			5000
+	Blacks_Armor_helmet_alpha_Camo21,	    1,			20000,			5000
+        	
+// Blacks_Armor_Camo33
+<Category>Alpha Armor Camo33
+	Blacks_Armor_Boots_Camo33,			    1,			20000,			5000        
+	Blacks_Armor_Pants_Camo33,			    1,			20000,			5000       
+	Blacks_Armor_Jacket_Camo33,			    1,			20000,			5000 
+	Blacks_Armor_Vest_Camo33,			    1,			20000,			5000
+	Blacks_Armor_Helm_Camo33,			    1,			20000,			5000
+	Blacks_Armor_helmet_alpha_Camo33,	    1,			20000,			5000
+        
+// Blacks_Armor_Camo40
+<Category>Alpha Armor Camo40
+	Blacks_Armor_Boots_Camo40,			    1,			20000,			5000       
+	Blacks_Armor_Pants_Camo40,			    1,			20000,			5000
+	Blacks_Armor_Jacket_Camo40,			    1,			20000,			5000
+	Blacks_Armor_Vest_Camo40,			    1,			20000,			5000
+	Blacks_Armor_Helm_Camo40,			    1,			20000,			5000
+	Blacks_Armor_helmet_alpha_Camo40,	    1,			20000,			5000
+        
+// Blacks_Armor_Camo42
+<Category>Alpha Armor Camo42 
+	Blacks_Armor_Boots_Camo42,			    1,			20000,			5000              
+	Blacks_Armor_Pants_Camo42,		     	1,			20000,			5000             
+	Blacks_Armor_Jacket_Camo42,			    1,			20000,			5000              
+	Blacks_Armor_Vest_Camo42,			    1,			20000,			5000      
+	Blacks_Armor_Helm_Camo42,		     	1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo42,		1,			20000,			5000      
+        	
+// Blacks_Armor_Camo44
+<Category>Alpha Armor Camo44
+	Blacks_Armor_Boots_Camo44,			    1,			20000,			5000              
+	Blacks_Armor_Pants_Camo44,			    1,			20000,			5000              
+	Blacks_Armor_Jacket_Camo44,			    1,			20000,			5000             
+	Blacks_Armor_Vest_Camo44,			    1,			20000,			5000      
+	Blacks_Armor_Helm_Camo44,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo44,		1,			20000,			5000      		
+        
+// Blacks_Armor_Camo45
+<Category>Alpha Armor Camo45
+	Blacks_Armor_Boots_Camo45,			    1,			20000,			5000              
+	Blacks_Armor_Pants_Camo45,			    1,			20000,			5000              
+	Blacks_Armor_Jacket_Camo45,			    1,			20000,			5000           
+	Blacks_Armor_Vest_Camo45,			    1,			20000,			5000      
+	Blacks_Armor_Helm_Camo45,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo45,		1,			20000,			5000         
+	      	
+// Blacks_Armor_Camo47
+<Category>Alpha Armor Camo47
+	Blacks_Armor_Boots_Camo47,			    1,			20000,			5000             
+	Blacks_Armor_Pants_Camo47,		    	1,			20000,			5000              
+	Blacks_Armor_Jacket_Camo47,		    	1,			20000,			5000              
+	Blacks_Armor_Vest_Camo47,		     	1,			20000,			5000      
+	Blacks_Armor_Helm_Camo47,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo47,		1,			20000,			5000      
+	        	
+// Blacks_Armor_Camo48
+<Category>Alpha Armor Camo48
+	Blacks_Armor_Boots_Camo48,		     	1,			20000,			5000             
+	Blacks_Armor_Pants_Camo48,			    1,			20000,			5000             
+	Blacks_Armor_Jacket_Camo48,			    1,			20000,			5000         
+	Blacks_Armor_Vest_Camo48,			    1,			20000,			5000      
+	Blacks_Armor_Helm_Camo48,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo48,		1,			20000,			5000      
+    
+// Blacks_Armor_Camo77
+<Category>Alpha Armor Camo77
+	Blacks_Armor_Boots_Camo77,			    1,			20000,			5000         
+	Blacks_Armor_Pants_Camo77,			    1,			20000,			5000      
+	Blacks_Armor_Jacket_Camo77,			    1,			20000,			5000          
+	Blacks_Armor_Vest_Camo77,			    1,			20000,			5000      
+    Blacks_Armor_Helm_Camo77,			    1,			20000,			5000      
+    Blacks_Armor_helmet_alpha_Camo77,		1,			20000,			5000      
+
+// Blacks_Armor_Camo111
+<Category>Alpha Armor Camo111
+	Blacks_Armor_Boots_Camo111,		     	1,			20000,			5000         
+	Blacks_Armor_Pants_Camo111,			    1,			20000,			5000       
+	Blacks_Armor_Jacket_Camo111,			1,			20000,			5000      
+	Blacks_Armor_Vest_Camo111,		    	1,			20000,			5000      
+	Blacks_Armor_Helm_Cam111,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo111,		1,			20000,			5000      
+        
+// Blacks_Armor_Camo185
+<Category>Alpha Armor Camo185
+	Blacks_Armor_Boots_Camo185,		    	1,			20000,			5000      
+	Blacks_Armor_Pants_Camo185,		     	1,			20000,			5000          
+	Blacks_Armor_Jacket_Camo185,			1,			20000,			5000      
+	Blacks_Armor_Vest_Camo185,			    1,			20000,			5000      
+	Blacks_Armor_Helm_Camo185,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo185,		1,			20000,			5000      
+        
+// Blacks_Armor_Camo210
+<Category>Alpha Armor Camo210
+	Blacks_Armor_Boots_Camo210,		    	1,			20000,			5000          
+	Blacks_Armor_Pants_Camo210,		    	1,			20000,			5000          
+	Blacks_Armor_Jacket_Camo210,			1,			20000,			5000      
+	Blacks_Armor_Vest_Camo210,		    	1,			20000,			5000      
+	Blacks_Armor_Helm_Camo210,		    	1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Camo210,		1,			20000,			5000      
+        
+// Blacks_Armor_Green_Steel
+<Category>Alpha Armor Green Steel
+	Blacks_Armor_Boots_Green_Steel,			1,			20000,			5000          
+	Blacks_Armor_Pants_Green_Steel,			1,			20000,			5000          
+	Blacks_Armor_Jacket_Green_Steel,		1,			20000,			5000         
+	Blacks_Armor_Vest_Green_Steel,			1,			20000,			5000      
+	Blacks_Armor_Helm_Green_Steel,			1,			20000,			5000      
+        	
+// Blacks_Armor_Jungle_Steel
+<Category>Blacks Armor Jungle Steel
+	Blacks_Armor_Boots_Jungle_Steel,		1,			20000,			5000         
+	Blacks_Armor_Pants_Jungle_Steel,		1,			20000,			5000         
+	Blacks_Armor_Jacket_Jungle_Steel,		1,			20000,			5000        
+	Blacks_Armor_Vest_Jungle_Steel,			1,			20000,			5000      
+	Blacks_Armor_Helm_Jungle_Steel,			1,			20000,			5000      
+        
+// Blacks_Armor_Obsidian
+<Category>Blacks Armor Obsidian	
+	Blacks_Armor_Boots_Obsidian,		    1,			20000,			5000      
+	Blacks_Armor_Pants_Obsidian,			1,			20000,			5000      
+	Blacks_Armor_Jacket_Obsidian,			1,			20000,			5000      
+   	Blacks_Armor_Vest_Obsidian,			    1,			20000,			5000      
+	Blacks_Armor_Helm_Obsidian,			    1,			20000,			5000      
+	Blacks_Armor_helmet_alpha_Obsidian,		1,			20000,			5000      
+	
+	
+ // Alpha Armor Gas Attachments 
+<Category>Alpha Armor Gas Attachments
+    Blacks_GP5Mask_Silk,		        	1,			20000,			5000      
+    Blacks_Vanta_GasMask_Filter,			1,			20000,			5000     
+    Blacks_VantaV2_GasMask_Filter,			1,			20000,			5000       
+    Blacks_Black_GasMask_Filter,			1,			20000,			5000      
+    Blacks_Gray_GasMask_Filter,		     	1,			20000,			5000      
+    Blacks_Grey_GasMask_Filter,		     	1,			20000,			5000       
+    Blacks_Obsidian_GasMask_Filter,			1,			20000,			5000        
+    Blacks_Silver_GasMask_Filter,			1,			20000,			5000
+    Blacks_Smoke_GasMask_Filter,			1,			20000,			5000
+    Blacks_Steel_GasMask_Filter,			1,			20000,			5000
